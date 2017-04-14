@@ -4,9 +4,10 @@ Full stack app using Reactjs
 # User Stories
 
 1. Logging in
-  *user can create account
-  *user can log in to existing account
-  *user is taken to homepage after login
+  * user can create account
+  * user can log in to existing account
+  * user is taken to homepage after login
+  
 2. playing game
   *user starts game
   *user is connected with opponent
